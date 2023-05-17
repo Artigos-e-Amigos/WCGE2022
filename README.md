@@ -41,3 +41,5 @@ Santos, M. T. S., Gasparini, I., Frigo, L. B., and Dalle Mulle, L. d. O. (2021).
 Story, M., Mueller, J., and Montoya-Weiss, M. (2002). Evaluating the universal design performance of products. Retrieved March, 29:2010.
 
 Zoppi, J., Guillaume, J.-F., Neunlist, M., and Chaffron, S. (2021). Mibiomics: an interactive web application for multi-omics data exploration and integration. BMC bioinformatics, 22(1):1–14.
+  
+</details>
